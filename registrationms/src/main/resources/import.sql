@@ -1,0 +1,1 @@
+insert into registration (username) values ('Mukesh');
